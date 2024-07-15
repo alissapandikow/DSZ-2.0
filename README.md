@@ -1,16 +1,7 @@
 # Post-Quantum signatures zoo
 
-In this project, we give an overview of the post-quantum algorithms that have been submitted to the NIST post-quantum signatures on-ramp.
+Welcome to the Post-Quantum Signatures Zoo 2.0, where we provide an extensive overview of the post-quantum algorithms submitted to the NIST post-quantum signatures initiative, both on-ramp and finalists.
 
-We have copied the properties of the schemes out of the individual scheme submission documents, so be aware of potential errors.
+The original source code for this project comes from pqshield/nist-sigs-zoo. I have built additional pages, improvements, and extensions to enhance the functionality of the website.
 
-## Data corrections
-
-The data for this project is kept on Google Sheets.
-Please submit corrections by commenting on [the relevant spreadsheet](https://docs.google.com/spreadsheets/d/1Ba8MWRJzcn3DaoAQsAiCnIdRbbVRow1mWf01LzXk-14/edit?usp=sharing) or submit issues in this repository.
-
-
-## Submitting new features and code improvements
-
-We welcome any and all suggestions and improvements to this web page: we're not web developers,
-so if you know how to do something more elegantly, feel free to contribute.
+Our goal is to continuously improve and expand the project, eventually including key encapsulation mechanisms (KEMs) and other types of post-quantum cryptographic schemes. We appreciate any contributions, especially from those with web development expertise, to help make this project even better. Thank you for your support and contributions to this evolving project.
