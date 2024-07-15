@@ -1,4 +1,4 @@
-# Post-Quantum signatures zoo
+# Post-Quantum signatures zoo 2.0
 
 Welcome to the Post-Quantum Signatures Zoo 2.0, where we provide an extensive overview of the post-quantum algorithms submitted to the NIST post-quantum signatures initiative, both on-ramp and finalists.
 
